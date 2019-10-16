@@ -2,4 +2,6 @@
 
 [Documentation](https://docs.python.org/2/library/unittest.html)
 
-![](richard.gif)
+<p align="center">
+  <img src="richard.gif"/>
+</p>
