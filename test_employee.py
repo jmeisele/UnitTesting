@@ -1,7 +1,6 @@
 import unittest
 from employee import Employee
 
-
 class TestEmployee(unittest.TestCase):
 
     def test_email(self):
@@ -35,3 +34,6 @@ class TestEmployee(unittest.TestCase):
 
         self.assertEqual(emp_1.pay, 52500)
         self.assertEqual(emp_2.pay, 105000)
+
+if __name__ == '__main__':
+    unittest.main()
