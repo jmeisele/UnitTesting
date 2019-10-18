@@ -1,3 +1,9 @@
+<p>
+  <a href="https://www.codacy.com/manual/jmeisele/UnitTesting?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jmeisele/UnitTesting&amp;utm_campaign=Badge_Grade">
+  </a>
+  <img src="https://api.codacy.com/project/badge/Grade/471a031803f94476a2df152a1878ad8a"/>
+</p>
+
 # Unit testing with Python
 
 <p align="center">
